@@ -1,0 +1,4 @@
+Certificate of Completion
+This certifies that ritik has successfully completed the course C++ Programming.
+Course Code: CS101
+Duration: 6 weeks
